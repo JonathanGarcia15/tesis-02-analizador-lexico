@@ -1,0 +1,61 @@
+programa(){
+	<-
+	and or
+	== != <= >= < >
+	!
+	* /
+	- ? [
+	+
+	"Soy Una Cadena "
+	,
+	;
+	... Soy Un Comentario 
+	
+		turn_right gira_derecha ... 
+	
+	/// Soy Otro Comentario 
+	
+	
+	45 645645645
+	
+	_SoyUnIdentificador 
+	_____ 
+	
+	{
+	}
+	(
+	program programa
+	variable var
+	)
+	move avanzar
+	wait espera
+	turn_left gira_izquierda
+	turn_right gira_derecha
+	pick_up toma_objeto
+	put_down soltar_objeto
+	delete_object eliminar_objeto
+	paint_floor pintar_suelo
+	stop_painting dejar_de_pintar
+	if si
+	else si_no
+	compare comparar
+	case caso
+	end fin
+	:
+	for para
+	default
+	else_if sinosi
+	do_over repite_hasta
+	while mientras
+	do hacer
+	azul blue green verde amarillo yellow red rojo
+	finish terminar
+	print_var imprimir_var print_variable imprimir_variable
+	print imprimir
+	object_in_front tengo_objeto_delante
+	bomb_in_front tengo_bomba_delante kaboom_in_front tengo_kaboom_delante
+	wall_in_front tengo_muro_delante
+	in_front_me delante_de_mi
+	disable_bomb desactivar_bomba disable_kaboom desactivar_kaboom
+	true false verdadero falso
+}
